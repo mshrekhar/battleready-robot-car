@@ -4,11 +4,11 @@ This project showcases our team's simple three-wheeled battle car, built for a c
 ![WhatsApp Image 2025-05-12 at 14 11 08_e4b73b35](https://github.com/user-attachments/assets/c0faf7d5-30ac-475a-991d-d5aa061d5639)
 
 Hardware:
-Front-facing PSD sensor
-Side-mounted ultrasonic sensor
-Vive Sensor - 2 mounted on the top most layer
-ESP32S2 microcontroller charged by a portable 5V charger
-Motors powered independently using NiMH batteries
+1. Front-facing PSD sensor
+2. Side-mounted ultrasonic sensor
+3. Vive Sensor - 2 mounted on the top most layer
+4. ESP32S2 microcontroller charged by a portable 5V charger
+5. Motors powered independently using NiMH batteries
 
 Steering:
 Manual: Web-based remote control interface
