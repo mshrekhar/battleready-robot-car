@@ -1,4 +1,5 @@
-Battle Car Project
+Battle Car Project:
+
 This project showcases our team's simple three-wheeled battle car, built for a competitive arena environment. The car features both manual and basic autonomous navigation modes:
 
 ![WhatsApp Image 2025-05-12 at 14 11 08_e4b73b35](https://github.com/user-attachments/assets/c0faf7d5-30ac-475a-991d-d5aa061d5639)
